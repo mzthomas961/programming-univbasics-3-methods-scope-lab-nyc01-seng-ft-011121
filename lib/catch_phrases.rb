@@ -15,5 +15,5 @@ end
 
 def all_phrases
   phrase = "It's Dangerous To Go Alone! Take This."
-
+  
   
